@@ -1,3 +1,3 @@
-## Dial AI
+## flexGPT
 
-An AI-powered solution designed to perform practical tasks via telephone interactions.
+FlexGPT: Your Interactive Guide to Mastering Twilio Flex
